@@ -1,1 +1,1 @@
-Please see Notebook or HTML file within this repository.
+Please see Jupyter Notebook or HTML file within this repository.
